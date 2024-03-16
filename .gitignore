@@ -28,4 +28,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-src/Animal.java
+./src/Animal.java
