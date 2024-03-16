@@ -5,6 +5,5 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("write your anyone number:");
         int number = scanner.nextInt();
-
     }
 }
